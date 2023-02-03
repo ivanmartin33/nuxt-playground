@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "@unocss/nuxt": "^0.48.0",
+    "@vueuse/core": "^9.9.0",
+    "@vueuse/nuxt": "^9.9.0",
+    "gsap": "^3.11.4",
+    "nuxt": "3.0.0",
+    "uuid": "^9.0.0",
+    "vue3-perfect-scrollbar": "^1.6.1"
+  },
+  "dependencies": {
+    "@vueuse/components": "^9.12.0",
+    "perfect-scrollbar": "^1.5.5",
+    "vue3-virtual-scroll-list": "^0.2.1"
+  }
+}
